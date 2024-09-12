@@ -1,6 +1,6 @@
 # | Olá! Me chamo Enzo Cardoso!
 
-Seja bem vindo ao meu perfil! Sou um estudante iniciante em programação e busco compartilhar e adquirir novas experiências relacionadas a programação.
+Seja bem vindo ao meu perfil! Sou um estudante de Desenvolvimento de Sistemas e busco compartilhar e adquirir novas experiências relacionadas a programação.
 
 Fique a vontade em seguir meus perfis, utilizar e criticar construtivamente meus projetos, Tmj!
 
